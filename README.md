@@ -1,8 +1,8 @@
-👩🏻‍💻 I’m currently working as a program manager @ The Girl Code
-👩🏻‍🎓 I’m pursuing my High School Diploma @ Jawahar Vidya Mandir, India
-📫 How to reach me: vaanya277@gmail.com
-😄 Pronouns: she/her
-⚡ Facts about me: I love stargazing and art, I am a member of The Squash State Team 
+- 👩🏻‍💻 I’m currently working as a program manager @ The Girl Code
+- 👩🏻‍🎓 I’m pursuing my High School Diploma @ Jawahar Vidya Mandir, India
+- 📫 How to reach me: vaanya277@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Facts about me: I love stargazing and art, I am a member of The Squash State Team 
 
 <!---
 vaanyaasingh/vaanyaasingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
