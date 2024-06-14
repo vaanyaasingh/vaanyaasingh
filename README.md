@@ -3,11 +3,10 @@ Hi there! 👋
 Welcome to my GitHub profile! I’m Vaanya Singh, a passionate Aspiring Machine Learning Engineer with a love for AI and fintech.
 
 - 👩🏻‍🎓 Currently pursuing a Bachelor’s in Computer Science at RV College of Engineering, Bengaluru.
-- 👩🏻‍💻 Program Manager and Donor Relations Manager at Go Girl Orgnisation, empowering underprivileged girls with coding skills
 - 📧 Reach me at: vaanya277@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun facts about me: I'm fascinated by astronomy 🌌 and art 🎨, and I'm a national-level squash player 🎾 proudly representing The Jharkhand Squash State Team.
-
+- 👩🏻‍💻 Former Program Manager at The Girl Code, empowering underprivileged girls with Python skills.
 
 ### Projects and Contributions
 
@@ -26,7 +25,7 @@ Welcome to my GitHub profile! I’m Vaanya Singh, a passionate Aspiring Machine 
 ### Professional Experience
 
 - **Tech Intern @ Healthians**: Delivered ML models and enhanced customer interactions with integrated APIs.
-- **Go Girl Organisation**: Mastering donor relations and leading impactful programming workshops.
+- **Go Girl Organisation**: Mastered donor relations and led impactful programming workshops.
 - **Junior Associate @ Entrepreneurship Cell, RVCE**: Ignited entrepreneurial spirit among peers.
 
 ### Get in Touch
