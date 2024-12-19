@@ -26,6 +26,6 @@ I’m **Vaanya Singh**, a passionate **Aspiring Machine Learning Engineer** with
 - **Go Girl Organisation**: Led impactful workshops, managed donor relations, and empowered underprivileged girls with coding skills.  
 - **Junior Associate @ Entrepreneurship Cell, RVCE**: Fueled entrepreneurial spirit among college peers through community initiatives.  
 
-## 📬 Get in Touch  
+# 📬 Get in Touch  
 Let’s connect! I’m always excited to chat about **AI, tech, or anything exciting in the world of machine learning and fintech**.  
 Reach out to me via [vaanya277@gmail.com](mailto:vaanya277@gmail.com) or drop a message here!  
