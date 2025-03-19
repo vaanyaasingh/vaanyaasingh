@@ -8,7 +8,12 @@
 
 ---
 
-### 🚀 What I’m up to
-- 🎨 **Daily UI Challenge:** Creating beautiful UI designs every day!  
-- 🌍 **Go Girl:** Teaching 2000+ girls coding & leading impactful programs.  
+### 💻 Programming Languages & Tools
+```json
+{
+  "Languages": ["Python", "R", "C++", "C", "Java", "HTML", "CSS", "JavaScript", "SQL", "Bash"],
+  "Frameworks": ["React.js"],
+  "ML Tools": ["scikit-learn", "Matplotlib", "Seaborn", "Streamlit"]
+}
+```
 
