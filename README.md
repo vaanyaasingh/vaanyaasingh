@@ -1,6 +1,6 @@
 ### Hi there, I'm Vaanya! 👋✨
 
-🌸 ##Student at RV College of Engineering
+## 🌸 Student at RV College of Engineering
 💻 Tech geek, UI/UX explorer & impact creator
 📩 vaanya277@gmail.com
 🚀 Building cool projects & making a difference with Go Girl
