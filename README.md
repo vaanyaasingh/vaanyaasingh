@@ -1,10 +1,10 @@
 ### Hi there, I'm Vaanya! 👋✨
 
-🌸 **Creative Coder | AI-ML | Social Impact Enthusiast**  
-🎨 Passionate about UI/UX & digital storytelling  
-💻 Exploring IoT, AI, and full-stack development  
-🌱 Constantly learning & building cool projects  
-✨ Love working on meaningful initiatives & empowering communities  
+🌸 Student at RV College of Engineering
+💻 Tech geek, UI/UX explorer & impact creator
+📩 vaanya277@gmail.com
+🚀 Building cool projects & making a difference with Go Girl
+☕ Fuelled by house music, late-night code & aesthetic designs
 
 ---
 
