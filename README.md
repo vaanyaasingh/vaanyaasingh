@@ -1,4 +1,4 @@
-# ### Hi there, I'm Vaanya! 👋✨
+### Hi there, I'm Vaanya! 👋✨
 
 🌸 **Creative Coder | AI-ML | Social Impact Enthusiast**  
 🎨 Passionate about UI/UX & digital storytelling  
@@ -12,16 +12,9 @@
 - 🎨 **Daily UI Challenge:** Creating beautiful UI designs every day!
 - 🌍 **Go Girl:** Teaching 2000+ girls coding & leading impactful programs.
 
----
 
-### 🔧 Tech & Tools I Love
-```json
-{
-  "Languages": ["C", "Python", "HTML/CSS", "JavaScript"],
-  "Frameworks": ["React", "Tailwind CSS", "Bootstrap"],
-  "Tools": ["Figma", "Canva", "Git", "Xcode", "Razorpay"]
-}
-```
+
+
 
 
 
